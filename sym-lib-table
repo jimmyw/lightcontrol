@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name esp32)(type Legacy)(uri C:/Users/powerj/Documents/lightcontrol/lightcontrol/library/ESP32_WROOM32.lib)(options "")(descr ""))
+  (lib (name hlk)(type Legacy)(uri C:/Users/powerj/Documents/lightcontrol/lightcontrol/library/HLK-10M12.lib)(options "")(descr ""))
+  (lib (name TPS5430DDAR)(type Legacy)(uri ${KIPRJMOD}/library/TPS5430DDAR.lib)(options "")(descr ""))
+  (lib (name B5819W)(type Legacy)(uri ${KIPRJMOD}/library/B5819W.lib)(options "")(descr ""))
+)

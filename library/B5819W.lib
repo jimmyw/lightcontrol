@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B5819W
+#/2678140/373775/2.47/2/3/Diode
+DEF B5819W D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "B5819W" 450 100 50 H V L CNN
+F2 "SOD3716X125N" 450 0 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-B5819W_C8598.pdf" 450 -100 50 H I L CNN
+F4 "40V 1A 600mV @ 1A SOD-123 Schottky Barrier Diodes (SBD)" 450 -200 50 H I L CNN "Description"
+F5 "1.25" 450 -300 50 H I L CNN "Height"
+F6 "Changjiang Electronics Tech (CJ)" 450 -400 50 H I L CNN "Manufacturer_Name"
+F7 "B5819W" 450 -500 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 450 -600 50 H I L CNN "Arrow Part Number"
+F9 "" 450 -700 50 H I L CNN "Arrow Price/Stock"
+F10 "" 450 -800 50 H I L CNN "Mouser Part Number"
+F11 "" 450 -900 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

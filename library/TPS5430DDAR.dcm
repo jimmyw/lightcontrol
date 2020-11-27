@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS5430DDAR
+D Texas Instruments, TPS5430DDAR Step-Down Switching Regulator 3A Adjustable, 1.22  31 V, 8-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/tps5430
+$ENDCMP
+#
+#End Doc Library
